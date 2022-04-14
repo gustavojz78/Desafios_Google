@@ -1,2 +1,2 @@
 # Desafios_Google
-Tareas de Google sobre python en coolabs
+Tareas de Google sobre python en colabs
